@@ -1,0 +1,47 @@
+td {
+	padding-top: 0.5%;
+	padding-left: 5%;
+}
+
+body {
+	width: 50%;
+	height: 100%;
+	border: 30px solid #B4BBC0;
+	margin: auto;
+	margin-top: 2%;
+	margin-bottom: 1%;
+	background-color: #4966FD;
+}
+
+h1 {
+	padding-left: 5%;
+	padding-top: 0.5%
+	padding-left: 0.5%;
+	color: #F6F5F6;
+}
+
+h2 {
+	color: #add8e6;
+	padding-left: 5%;
+	padding-top: 0.5%
+	padding-left: 0.5%;
+}
+
+.special {
+	border-left: 10px solid #B4BBC0;
+	margin-left: 5%;
+}
+
+p {
+	padding-top: 0.5%;
+	padding-left: 5%;
+	color: white;
+}
+
+.lightborder {
+	border-top: 2px solid #F6F5F6;
+	width: 90%;
+	text-align: center;
+	margin: auto;
+}
+
